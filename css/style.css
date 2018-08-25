@@ -19,6 +19,10 @@ body {
   background: #fff;
 }
 
+.animate-box{
+  height: 400px !important;
+}
+
 #form{
   height: 20px !important;
   align-content: center;
